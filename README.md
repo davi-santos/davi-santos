@@ -28,19 +28,11 @@ Learning data science, technology and helping my community motivates me for doin
 
 - 🔭 I’m currently working on (put samambaia project here)  
 
-- 📊 Dashboard-covid19-tocantins
+- 📊 [Dashboard-covid19-tocantins](https://github.com/davi-santos/dashboard-covid19-tocantins) - Dashboard about covid-19 in Tocantins State, Brazil.
   
-- 📊 Ask me about anything related to MERN stack and related technologies  
-  
--  Fun fact: I keep night shift swithed on at all times   
-
+- 📊 [Tocantins-covid19-analysis](https://github.com/davi-santos/Tocantins-covid19-analysis) - An analysis about covid-19 in Tocantins State, Brazil, in Jupyter Notebook.
 
 </td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 
 </td></tr></table>  
 
@@ -60,29 +52,6 @@ Learning data science, technology and helping my community motivates me for doin
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
 
 <br/>  
 
