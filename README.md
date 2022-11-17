@@ -15,9 +15,7 @@
 
 
 ### First of all, let me introduce myself :)  
-I am a bachelor of computer science who have been studying and doing projects in the data science field. Currently, I am studying statistics and machine learning - which has been challenging and exciting at the same time. Also, I am developing projects of my own and sharing them on my social medias.
-
-Learning data science, technology and helping my community is what moves me forward. Feel free to read, share or ask questions about my projects. Enjoy yourself :D!  
+I am a bachelor of computer science who have been studying and doing projects in the data science field. Currently, I am studying statistics and machine learning - which has been challenging and exciting at the same time. Also, I am developing projects of my own and sharing them on my social medias. Feel free to read, share or ask questions about my projects. Enjoy yourself :D!  
   
 
 <br/>  
@@ -61,7 +59,6 @@ Learning data science, technology and helping my community is what moves me forw
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **davi-santos/davi-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
