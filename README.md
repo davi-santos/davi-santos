@@ -24,15 +24,12 @@ Learning data science, technology and helping my community motivates me for doin
 
 
 ## Projects  
-<table><tr><td valign="top">
 
 - 🔭 I’m currently working on (put samambaia project here)  
 
 - 📊 [Dashboard-covid19-tocantins](https://github.com/davi-santos/dashboard-covid19-tocantins) - Dashboard about covid-19 in Tocantins State, Brazil.
   
 - 📊 [Tocantins-covid19-analysis](https://github.com/davi-santos/Tocantins-covid19-analysis) - An analysis about covid-19 in Tocantins State, Brazil, in Jupyter Notebook.
-
-</tr></table>  
 
 <br/>  
 
