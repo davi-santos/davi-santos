@@ -17,7 +17,7 @@
 ### First of all, let me introduce myself :)  
 I am a bachelor of computer science who have been studying and doing projects in the data science field. Currently, I am studying statistics and machine learning - which has been challenging and exciting at the same time. Also, I am developing projects of my own and sharing them on my social medias.
 
-Learning data science, technology and helping my community motivates me for doing my projects. Feel free to read, share and ask about my projects. Also, feel free to contact me. Enjoy yourself :D!  
+Learning data science, technology and helping my community is what moves me forward. Feel free to read, share or ask questions about my projects. Enjoy yourself :D!  
   
 
 <br/>  
