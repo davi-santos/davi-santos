@@ -27,6 +27,12 @@ Learning data science, technology and helping my community is what moves me forw
 
 - 🔭 I’m currently working on (put samambaia project here)  
 
+- 🔭 [O que faz um cientista de dados?](https://www.kaggle.com/code/daviribeirodossantos/o-que-faz-um-cientista-de-dados) <br>
+     "What does a data scientist do" is a kaggle notebook that contains: <br>
+     - A storytelling describing the main challenges to become a data scientist;
+     - In the storytelling, it shows the most and more common tasks and tools of brazilian data scientists in their jobs using data visualization;
+     - As a result, it was selected as one of the 10 best notebooks in Data Hackers competition. Also, it has more than a thousand views and 20 upvotes.
+
 - 📊 [Dashboard-covid19-tocantins](https://github.com/davi-santos/dashboard-covid19-tocantins) - Dashboard about covid-19 in Tocantins State, Brazil.
   
 - 📊 [Tocantins-covid19-analysis](https://github.com/davi-santos/Tocantins-covid19-analysis) - An analysis about covid-19 in Tocantins State, Brazil, in Jupyter Notebook.
