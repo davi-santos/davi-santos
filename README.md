@@ -23,7 +23,7 @@ I am a bachelor of computer science who have been studying and doing projects in
 
 ## Projects  
 
-- 🔭 I’m currently working on (put samambaia project here)  
+- :man_health_worker: I’m currently working on [Samambaia house prediction](https://github.com/davi-santos/samambaia-house-prediction) project;
 
 - 🔭 [O que faz um cientista de dados?](https://www.kaggle.com/code/daviribeirodossantos/o-que-faz-um-cientista-de-dados) <br>
      "What does a data scientist do" is a kaggle notebook that contains: <br>
