@@ -24,7 +24,7 @@ Learning data science, technology and helping my community motivates me for doin
 
 
 ## Projects  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 - 🔭 I’m currently working on (put samambaia project here)  
 
@@ -32,9 +32,7 @@ Learning data science, technology and helping my community motivates me for doin
   
 - 📊 [Tocantins-covid19-analysis](https://github.com/davi-santos/Tocantins-covid19-analysis) - An analysis about covid-19 in Tocantins State, Brazil, in Jupyter Notebook.
 
-</td><td valign="top" width="50%">
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
