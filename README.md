@@ -24,7 +24,7 @@ I am a bachelor of computer science who have been studying and doing projects in
     In this project, the goal was to predict samambaia house prices in the Distrito Federal State, Brazil. For that, I had to:
     - Web scrape house prices using Python from OLX pages;
     - Preprocess, analyse data and make machine learning models, all of that available in the project;
-    - By the end of the project, a web page was made showing all the work done, that is, analysing and predicting samambaia house prices([site here] (https://www.linkedin.com/posts/davi-datascientist_dataapp-python-plotly-ugcPost-7037170915603828736-8th6?utm_source=share&utm_medium=member_desktop))
+    - By the end of the project, a web page was made showing all the work done, that is, analysing and predicting samambaia house prices - [site here] (https://www.linkedin.com/posts/davi-datascientist_dataapp-python-plotly-ugcPost-7037170915603828736-8th6?utm_source=share&utm_medium=member_desktop)
 
 - 🔭 [O que faz um cientista de dados?](https://www.kaggle.com/code/daviribeirodossantos/o-que-faz-um-cientista-de-dados) <br>
      "What does a data scientist do", translated from portuguese to english, is a kaggle notebook that contains: <br>
