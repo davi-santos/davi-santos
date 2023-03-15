@@ -20,6 +20,8 @@ I am a bachelor of computer science who have been studying and doing projects in
 
 ## Projects  
 
+- :sparkles: I am currently working on [customer-segmentation](https://github.com/davi-santos/customer-segmentation) project;
+
 - :man_health_worker: [Samambaia house prediction](https://github.com/davi-santos/samambaia-house-prediction): <br>
     In this project, the goal was to predict samambaia house prices in the Distrito Federal State, Brazil. For that, I had to:
     - Web scrape house prices using Python from OLX pages;
